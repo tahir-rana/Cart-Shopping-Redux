@@ -10,3 +10,12 @@
   margin-top: 1rem;
   font-size: 20px;
 }
+
+.logout-bn {
+  padding: 10px;
+  background: orangered;
+  border: none;
+}
+.logout-bn:hover {
+  background: rgb(0, 6, 59);
+}
